@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/dynamixel_workbench_msgs-release
 tracks:
   foxy:
     actions:
