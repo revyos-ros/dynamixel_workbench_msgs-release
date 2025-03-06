@@ -1,3 +1,26 @@
+## dynamixel_workbench_msgs (jazzy) - 2.1.0-1
+
+The packages in the `dynamixel_workbench_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy dynamixel_workbench_msgs --override-release-repository-push-url git@github.com:revyos-ros/dynamixel_workbench_msgs-release.git --edit` on `Thu, 06 Mar 2025 16:13:06 -0000`
+
+The `dynamixel_workbench_msgs` package was released.
+
+Version of package(s) in repository `dynamixel_workbench_msgs`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs.git
+- release repository: https://github.com/revyos-ros/dynamixel_workbench_msgs-release.git
+- rosdistro version: `2.1.0-1`
+- old version: `2.0.3-6`
+- new version: `2.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## dynamixel_workbench_msgs (humble) - 2.1.0-1
 
 The packages in the `dynamixel_workbench_msgs` repository were released into the `humble` distro by running `/root/venv/bin/bloom-release -r humble dynamixel_workbench_msgs --override-release-repository-push-url git@github.com:revyos-ros/dynamixel_workbench_msgs-release.git --edit` on `Wed, 05 Mar 2025 03:32:32 -0000`
